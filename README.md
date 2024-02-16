@@ -2,7 +2,7 @@
 
 Você pode acessar o jogo e testar através do link: ➡️ [Jogo do Número Secreto](https://vercel.com/penichezitos-projects/jogo-numero-secreto) 
 
-## ***Desafio de Lógica de Programação - Programa One Next Education [ONE] da Oracle + Alura*** 💻
+## ***Desafio de Lógica de Programação - Programa One Next Education[ONE]*** 💻
 
 Proejto de desafio desenvolvido para o curso de lógica de programação com javascript da Alura referente a bolsa de estudos do programa ONE da Oracle. 
 
